@@ -1,0 +1,26 @@
+	How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+By having access to the history of files, a programmer is more able to edit and revise applications and troubleshoot
+should an issue arise
+
+	What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions 
+automatically saved, like Google Docs does?
+Pros: More concise edits that actually mean something!
+cons: Potential for user error.
+
+	Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google
+ Docs, treat each file separately?
+Saving multiple files at once allows for connected files to be compared across different commits and see where changes are made in the
+repository
+
+	How can you use the commands git log and git diff to view the history of files? 
+by using git log you can view multiple commits and find a specific one you need. after the needed commits are found, they can then be 
+compared by using git diff and the 2 respective commit ids to show the differences between the documents. if they're not colored, you may
+use git config --global color.ui auto
+
+	How might using version control make you more confident to make changes that could break something?
+Finding errors is extremely traceable thus allowing more rooom to experiment with possibilities while at the same time maintaining 
+overall integrity of the project
+
+	Now that you have your workspace set up, what do you want to try using Git for?
+I plan on using git to keep track of multiple versions of my time optimization app. I'll be able to check differences between code and more easily debug. Git will be especially integral when working with other people on the same project.
+
