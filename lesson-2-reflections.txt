@@ -6,3 +6,6 @@ in order to use git and all of its features to keep track of multiple versions.
 The staging area is an intermediate area between the working directory and the repository. Files in the staging area are being prepared to
  be commited but have not yet been. This makes it possible to revisit each file before making a commit. The value is in how you're able to
 double check your logic before having to commit to a set of commits.?
+
+	How can you use the staging area to make sure you have one commit per logical change?
+After something is changed, you may put it in the staging area. You may then check out the staging area and see if that's what you really want to add to the final repository.
