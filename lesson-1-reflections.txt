@@ -22,5 +22,5 @@ Finding errors is extremely traceable thus allowing more rooom to experiment wit
 overall integrity of the project
 
 	Now that you have your workspace set up, what do you want to try using Git for?
-I plan on using git to keep track of multiple versions of my time optimization app. I'll be able to check differences between code and more easily debug. Git will be especially integral when working with other people on the same project.
+I plan on using git to keep track of multiple versions of my time optimization app. I'll be able to check differences between code and more easily debug. Git will be especially integral when working with other people on the same project.?
 
