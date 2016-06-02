@@ -8,14 +8,22 @@ The staging area is an intermediate area between the working directory and the r
 double check your logic before having to commit to a set of commits.?
 
 	How can you use the staging area to make sure you have one commit per logical change?
-After something is changed, you may put it in the staging area. You may then check out the staging area and see if that's what you really want to add to the final repository.
+After something is changed, you may put it in the staging area. You may then check out the staging area and see if that's what you really
+ want to add to the final repository.
 
 	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-Some situations could include adding different versions to an existing program or trying out new and experimental features. Branches will help by having different logical pathways for the user to look through and save while still maintaining a master branch for the core components.
+Some situations could include adding different versions to an existing program or trying out new and experimental features. Branches will
+help by having different logical pathways for the user to look through and save while still maintaining a master branch for the core components.
 
 	How do the diagrams help you visualize the branch structure?
-The diagrams allow a visual representation that will easily allow someone to follow all of the logical changes and different features that may be included in a program. Any unaccessible files will be shown in a diagram.
+The diagrams allow a visual representation that will easily allow someone to follow all of the logical changes and different features that
+may be included in a program. Any unaccessible files will be shown in a diagram.
 
 	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 When merging two branches together, it creates a commit that contains modifications from both branches into one single collection of code.
 It's representation in the diagram is due to the fact that they are separate pathways with largely unique features.
+
+	What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Well, to be frank I wasn't aware of the capabilities of the automatic merging. Now that I'm reflecting though, I think that if there are
+ no merging conflicts, then a merge will happen seamlessly. The advantages of doing a manual merge are enticing. The user will be able to 
+see exactly what was changed and logically decide what should happen
