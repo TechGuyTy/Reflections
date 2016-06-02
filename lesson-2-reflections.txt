@@ -15,3 +15,7 @@ Some situations could include adding different versions to an existing program o
 
 	How do the diagrams help you visualize the branch structure?
 The diagrams allow a visual representation that will easily allow someone to follow all of the logical changes and different features that may be included in a program. Any unaccessible files will be shown in a diagram.
+
+	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When merging two branches together, it creates a commit that contains modifications from both branches into one single collection of code.
+It's representation in the diagram is due to the fact that they are separate pathways with largely unique features.
