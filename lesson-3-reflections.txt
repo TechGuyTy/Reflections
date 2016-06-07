@@ -1,0 +1,3 @@
+	When would you want to use a remote repository rather than keeping all your work local?
+Whenever a project needs to be accessed my multiple contributors, a remote repository is more beneficial so that there is a common place
+to save changes to. This is perfect for getting feedback from other programmers as well.
